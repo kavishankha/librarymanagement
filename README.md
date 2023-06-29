@@ -3,8 +3,8 @@
   <img src="https://your-image-url.com/your-image.png" alt="Logo" width="200" height="200">
 </p>
 
-Submission Date: 03/02/2023
-###H.K.A.Kavishankh
+
+### H.K.A.Kavishankh
 University of Kelaniya - Library Management System
 
 ## Project Report
@@ -84,4 +84,4 @@ The GUI design comprises the following window forms:
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by the AplicationCOST
+  <sub>Built with ❤️ by the H.K.A.Kavishankh
