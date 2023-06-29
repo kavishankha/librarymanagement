@@ -1,12 +1,10 @@
 # <center>AplicationCOST 31513 - README</center>
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Logo" width="200" height="200">
-</p>
-
-
+ 
 ### H.K.A.Kavishankh
 University of Kelaniya - Library Management System
 
+</p>
 ## Project Report
 
 
