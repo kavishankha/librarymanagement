@@ -34,7 +34,7 @@ The Library Management System should fulfill the following functional requiremen
 ## Tools Used
 The following tools were used in the design and development of the website:
 - Visual Studio C#
-- MySQL
+- MS SQL SERVER
 
 ## Challenges Faced
 During the development process, the team encountered the following challenges:
