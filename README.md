@@ -15,7 +15,7 @@ University of Kelaniya - Library Management System
 - [Challenges Faced](#challenges-faced)
 - [Lessons Learned](#lessons-learned)
 - [Design of Web Pages](#design-of-web-pages)
-- [Work Allocation](#work-allocation)
+
 
 ---
 
