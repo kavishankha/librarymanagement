@@ -1,4 +1,4 @@
-# <center>AplicationCOST 31513 - README</center>
+# <center>Library Management System - README</center>
 <p align="center">
  
 ### H.K.A.Kavishankh
